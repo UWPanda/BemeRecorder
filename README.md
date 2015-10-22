@@ -29,7 +29,7 @@ Once a recording is started the video is stored on the file system in the photos
 ```
 
 #Screenshot
-![picture screenshot](https://raw.githubusercontent.com/UWPanda/TabbedPivot/master/Images/Screenshot.png "Screenshot")
+![picture screenshot](https://raw.githubusercontent.com/UWPanda/BemeRecorder/master/Images/Screencapture.gif "Screenshot")
 
 #Author
 

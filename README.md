@@ -1,4 +1,4 @@
-![picture Header](https://raw.githubusercontent.com/UWPanda/TabbedPivot/master/Images/GitHub_Header.png "Header")
+![picture Header](https://raw.githubusercontent.com/UWPanda/BemeRecorder/master/Images/GitHub_Header.png "Header")
 
 #BemeRecorder
 Similar to the Beme app on iOS BemeRecorder uses the ProximitySensor of the device to trigger video recording in UWP.
